@@ -1,1 +1,3 @@
-# HCPS-scheduling
+# Instances in HCPS-scheduling
+
+This repository is the problem instances in the paper “Solving Flexible Job-Shop Problem Considering Skilled Workers via Multi-domain Graph Attention Network”.
